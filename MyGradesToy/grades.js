@@ -17,4 +17,4 @@ function myGrades(grade){
     }
 
 }
-myGrades(78);
+myGrades(56);
